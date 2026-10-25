@@ -1,0 +1,201 @@
+gig_id,description,required_skills,work_days,est_hours,budget_php
+G0000,"Small business needs manuscript polishing, writing, reading comprehension coaching, document localization flexible schedule",proofreading;english_tutoring;translation,wed;thu;fri,4,1080
+G0001,"Small business needs live selling hosting, commerce, brand identity, design can meet deadlines",online_selling;logo_design,mon;fri;sat,2,640
+G0002,"Small business needs ad caption writing, product descriptions, proofreading, tagalog translation, document localization reliable and responsive",copywriting;proofreading;translation,thu;fri,10,1500
+G0003,"Short task requiring premiere pro cuts, capcut editing, social media management, product photography, catalog photos reliable and responsive",video_editing;social_media_mgmt;product_photography,sat,4,1800
+G0004,Looking for a student who can do brand identity flexible schedule,logo_design,tue;sun,4,840
+G0005,"Need help with reading comprehension coaching, grammar lessons, party photos, math tutoring, algebra lessons, tutoring quick turnaround",english_tutoring;event_photography;math_tutoring,wed;fri,8,1440
+G0006,Small business needs lazada listings willing to learn,online_selling,mon;sun,8,1280
+G0007,"Need help with pubmat creation, ui design, user interface prototyping, design friendly communication",poster_design;ui_design,tue;thu;sat,3,390
+G0008,"Need help with google sheets formulas, html css javascript, html css javascript, programming flexible schedule",spreadsheet_work;web_development,tue;sun,8,2000
+G0009,"Small business needs product photography, catalog photos friendly communication",product_photography,mon;wed;sat,10,1600
+G0010,"Short task requiring event photography, html css javascript, programming, item photoshoot, photography quick turnaround",event_photography;web_development;product_photography,thu;sat,8,1520
+G0011,Hiring a freelancer for pandas data cleaning can meet deadlines,python_programming,mon;fri;sun,2,660
+G0012,"Seeking someone experienced in flyer layout, design flexible schedule",poster_design,thu;fri;sun,7,2100
+G0013,"Looking for a student who can do event coverage shoot, photography, flat lay shots, photography, grammar lessons, reading comprehension coaching reliable and responsive",event_photography;product_photography;english_tutoring,tue,5,1850
+G0014,"Hiring a freelancer for live selling hosting, google sheets formulas, google sheets formulas, brand mark creation willing to learn",online_selling;spreadsheet_work;logo_design,mon;fri,7,2940
+G0015,"Need help with transcription, science tutoring, english tutoring flexible schedule",transcription;science_tutoring;english_tutoring,tue;sat,4,1120
+G0016,"Seeking someone experienced in calendar scheduling, online admin support, admin, interview transcribing, meeting minutes writing, grammar checking, manuscript polishing, writing friendly communication",virtual_assistance;transcription;proofreading,sat,8,2640
+G0017,"Seeking someone experienced in form digitization, admin detail oriented",data_entry,sat;sun,8,960
+G0018,"Hiring a freelancer for data entry, filipino english translation, marketing copy, marketing copy reliable and responsive",data_entry;translation;copywriting,mon;tue;thu,7,1190
+G0019,"Short task requiring esl conversation practice, excel spreadsheets quick turnaround",english_tutoring;spreadsheet_work,tue;wed;sat,4,920
+G0020,"Small business needs python programming, figma mockups, figma mockups can meet deadlines",python_programming;ui_design,mon;thu;fri,6,960
+G0021,"Looking for a student who can do online selling, python scripting flexible schedule",online_selling;python_programming,sat,6,780
+G0022,"Short task requiring virtual assistance, admin, online selling, commerce, transcription, meeting minutes writing friendly communication",virtual_assistance;online_selling;transcription,mon;tue;sun,10,2400
+G0023,"Looking for a student who can do web development, website building quick turnaround",web_development,thu;fri;sun,4,760
+G0024,"Hiring a freelancer for web development, subtitle translation quick turnaround",web_development;translation,sat,3,1230
+G0025,"Hiring a freelancer for grammar lessons, esl conversation practice can meet deadlines",english_tutoring,wed;fri,10,3700
+G0026,"Short task requiring product descriptions, marketing copy, writing quick turnaround",copywriting,wed,3,1020
+G0027,"Looking for a student who can do math tutoring, brand mark creation, design, poster design, design can meet deadlines",math_tutoring;logo_design;poster_design,wed,6,720
+G0028,Looking for a student who can do reading comprehension coaching can meet deadlines,english_tutoring,tue;fri;sat,5,1300
+G0029,"Hiring a freelancer for meeting minutes writing, meeting minutes writing, product photography, photography detail oriented",transcription;product_photography,mon,9,3060
+G0030,"Small business needs live selling hosting, flat lay shots, photography reliable and responsive",online_selling;product_photography,wed;fri;sat,10,4200
+G0031,"Need help with online selling, live selling hosting, commerce, proofreading, manuscript polishing, writing flexible schedule",online_selling;proofreading,mon;thu,9,3060
+G0032,"Small business needs manuscript polishing, document editing, ad caption writing flexible schedule",proofreading;copywriting,tue;wed,6,1500
+G0033,"Short task requiring lazada listings, subtitle translation, subtitle translation, meeting minutes writing reliable and responsive",online_selling;translation;transcription,tue;fri,6,660
+G0034,"Small business needs ui design, automation scripts, programming willing to learn",ui_design;python_programming,thu,8,3600
+G0035,Looking for a student who can do filipino english translation willing to learn,translation,tue;wed,6,1680
+G0036,"Need help with english tutoring, esl conversation practice flexible schedule",english_tutoring,mon;sat,8,3360
+G0037,"Need help with community moderation, media can meet deadlines",social_media_mgmt,thu;fri,3,390
+G0038,"Looking for a student who can do transcription, meeting minutes writing flexible schedule",transcription,tue;fri;sun,8,2480
+G0039,"Short task requiring proofreading, writing, social media management, community moderation, media detail oriented",proofreading;social_media_mgmt,tue;sun,7,1470
+G0040,"Looking for a student who can do proofreading, filipino english translation, tagalog translation, audio to text typing, interview transcribing willing to learn",proofreading;translation;transcription,tue;thu,2,540
+G0041,"Seeking someone experienced in product photography, event coverage shoot detail oriented",product_photography;event_photography,mon;sat,10,2500
+G0042,"Hiring a freelancer for excel spreadsheets, subtitle translation, subtitle translation flexible schedule",spreadsheet_work;translation,mon;fri,7,3080
+G0043,"Small business needs party photos, virtual assistance, item photoshoot, photography friendly communication",event_photography;virtual_assistance;product_photography,sun,4,880
+G0044,"Seeking someone experienced in copywriting, tagalog translation, writing, lazada listings, commerce can meet deadlines",copywriting;translation;online_selling,thu,8,2560
+G0045,"Seeking someone experienced in email management, calendar scheduling reliable and responsive",virtual_assistance,sat;sun,9,2880
+G0046,"Short task requiring excel spreadsheets, pivot table reports, brand mark creation, brand mark creation willing to learn",spreadsheet_work;logo_design,tue;wed;thu,5,1600
+G0047,"Need help with flat lay shots, photography, event photography willing to learn",product_photography;event_photography,mon;sun,10,1800
+G0048,"Need help with flyer layout, pubmat creation, design, meeting minutes writing quick turnaround",poster_design;transcription,mon;sun,7,3010
+G0049,"Seeking someone experienced in app wireframes, design, brand identity, design, instagram content scheduling quick turnaround",ui_design;logo_design;social_media_mgmt,mon;tue,10,1800
+G0050,"Hiring a freelancer for event coverage shoot, item photoshoot, photography detail oriented",event_photography;product_photography,thu;sat,4,1320
+G0051,"Short task requiring flat lay shots, filipino english translation, writing flexible schedule",product_photography;translation,sat;sun,8,2960
+G0052,Hiring a freelancer for catalog photos willing to learn,product_photography,thu,2,420
+G0053,"Short task requiring math tutoring, algebra lessons, tutoring friendly communication",math_tutoring,tue;wed;thu,10,4000
+G0054,"Looking for a student who can do reading comprehension coaching, python programming willing to learn",english_tutoring;python_programming,wed;fri,7,910
+G0055,Hiring a freelancer for ui design reliable and responsive,ui_design,sun,5,1650
+G0056,"Need help with meeting minutes writing, video editing, reels and tiktok editing friendly communication",transcription;video_editing,wed;sun,6,780
+G0057,"Need help with copywriting, product descriptions detail oriented",copywriting,mon;thu;fri,7,2170
+G0058,"Seeking someone experienced in web development, programming, pandas data cleaning can meet deadlines",web_development;python_programming,sun,8,800
+G0059,"Short task requiring database encoding, admin, logo design, design flexible schedule",data_entry;logo_design,thu,5,1150
+G0060,"Hiring a freelancer for copywriting, writing flexible schedule",copywriting,sat;sun,9,2340
+G0061,"Looking for a student who can do premiere pro cuts, media can meet deadlines",video_editing,mon,9,990
+G0062,"Need help with social media management, instagram content scheduling, media, reels and tiktok editing, media quick turnaround",social_media_mgmt;video_editing,fri;sun,4,1080
+G0063,"Hiring a freelancer for proofreading, writing, filipino english translation, writing friendly communication",proofreading;translation,tue,7,1470
+G0064,"Small business needs user interface prototyping, user interface prototyping, mathematics review sessions, tutoring can meet deadlines",ui_design;math_tutoring,tue;sat;sun,2,220
+G0065,"Short task requiring event banner graphics, design, visual identity kit, design, grammar lessons, tutoring willing to learn",poster_design;logo_design;english_tutoring,wed;thu;fri,3,1320
+G0066,Looking for a student who can do physics lessons quick turnaround,science_tutoring,fri;sat,6,1680
+G0067,"Looking for a student who can do automation scripts, pandas data cleaning, social media management, media, figma mockups, figma mockups willing to learn",python_programming;social_media_mgmt;ui_design,wed;sun,10,3700
+G0068,"Seeking someone experienced in event photography, party photos, web development, programming, app wireframes reliable and responsive",event_photography;web_development;ui_design,tue;thu,7,2030
+G0069,"Small business needs subtitle translation, writing reliable and responsive",translation,tue;wed,10,1000
+G0070,"Seeking someone experienced in community moderation, facebook page handling, media can meet deadlines",social_media_mgmt,tue,3,360
+G0071,"Hiring a freelancer for copywriting, writing, flat lay shots, photography friendly communication",copywriting;product_photography,wed;fri;sun,7,1260
+G0072,"Seeking someone experienced in shopee store management, commerce, virtual assistance, calendar scheduling, product descriptions can meet deadlines",online_selling;virtual_assistance;copywriting,mon;sat,6,780
+G0073,"Hiring a freelancer for event photography, photography flexible schedule",event_photography,tue;fri;sun,3,1200
+G0074,"Seeking someone experienced in biology coaching, physics lessons can meet deadlines",science_tutoring,fri;sun,4,1280
+G0075,"Seeking someone experienced in tagalog translation, writing, copywriting, writing, biology coaching detail oriented",translation;copywriting;science_tutoring,tue;sat,2,420
+G0076,"Small business needs product photography, event photography, event coverage shoot willing to learn",product_photography;event_photography,wed;sat,9,3330
+G0077,"Looking for a student who can do online selling, app wireframes, online admin support, online admin support, admin quick turnaround",online_selling;ui_design;virtual_assistance,mon;thu;sun,9,3600
+G0078,"Need help with online selling, commerce, video editing, media, item photoshoot, catalog photos reliable and responsive",online_selling;video_editing;product_photography,tue;thu,4,800
+G0079,"Short task requiring live selling hosting, shopee store management, python programming, automation scripts, programming reliable and responsive",online_selling;python_programming,sat;sun,9,3420
+G0080,"Looking for a student who can do transcription, encoding records willing to learn",transcription;data_entry,sat;sun,8,2160
+G0081,"Small business needs app wireframes, user interface prototyping, online selling, lazada listings, commerce, document localization, writing friendly communication",ui_design;online_selling;translation,thu;fri;sun,2,720
+G0082,"Looking for a student who can do physics lessons, tutoring, shopee store management friendly communication",science_tutoring;online_selling,thu,7,2100
+G0083,"Small business needs app wireframes, html css javascript, programming friendly communication",ui_design;web_development,mon,4,1200
+G0084,"Need help with encoding records, encoding records, admin, community moderation friendly communication",data_entry;social_media_mgmt,thu,5,1100
+G0085,"Hiring a freelancer for occasion photoshoot, lazada listings, commerce friendly communication",event_photography;online_selling,mon;thu,6,2280
+G0086,"Small business needs english tutoring, community moderation, community moderation friendly communication",english_tutoring;social_media_mgmt,sat,9,900
+G0087,"Small business needs user interface prototyping, design, grammar lessons, tutoring detail oriented",ui_design;english_tutoring,mon;wed;sun,8,880
+G0088,Short task requiring online admin support willing to learn,virtual_assistance,mon;fri,7,2450
+G0089,"Short task requiring online admin support, email management, admin, copywriting, writing, automation scripts quick turnaround",virtual_assistance;copywriting;python_programming,mon,3,780
+G0090,"Need help with manuscript polishing, writing flexible schedule",proofreading,tue;fri,2,360
+G0091,"Small business needs subtitle translation, proofreading willing to learn",translation;proofreading,sun,4,1480
+G0092,"Hiring a freelancer for online selling, capcut editing, premiere pro cuts, media can meet deadlines",online_selling;video_editing,mon;thu;sat,6,1800
+G0093,"Small business needs math tutoring, calculus coaching willing to learn",math_tutoring,tue;thu,7,770
+G0094,Hiring a freelancer for physics lessons friendly communication,science_tutoring,thu;sat,6,1740
+G0095,"Hiring a freelancer for calculus coaching, tagalog translation, writing, marketing copy reliable and responsive",math_tutoring;translation;copywriting,tue,2,440
+G0096,"Seeking someone experienced in html css javascript, website building, programming, event photography, python programming quick turnaround",web_development;event_photography;python_programming,thu;sun,5,1550
+G0097,"Seeking someone experienced in biology coaching, web development, html css javascript, social media management, media friendly communication",science_tutoring;web_development;social_media_mgmt,mon;fri;sun,10,3500
+G0098,"Short task requiring flat lay shots, brand mark creation friendly communication",product_photography;logo_design,wed,3,1230
+G0099,"Seeking someone experienced in facebook page handling, capcut editing reliable and responsive",social_media_mgmt;video_editing,tue,8,3360
+G0100,"Small business needs calculus coaching, tutoring, brand identity, visual identity kit, design, figma mockups friendly communication",math_tutoring;logo_design;ui_design,mon;sat;sun,6,2520
+G0101,"Hiring a freelancer for online selling, commerce flexible schedule",online_selling,tue;fri;sun,5,950
+G0102,"Seeking someone experienced in grammar checking, marketing copy friendly communication",proofreading;copywriting,wed;thu;sun,9,3240
+G0103,"Looking for a student who can do event photography, photography, visual identity kit, brand mark creation, design can meet deadlines",event_photography;logo_design,mon;wed,5,1400
+G0104,"Hiring a freelancer for tagalog translation, writing, instagram content scheduling, media detail oriented",translation;social_media_mgmt,mon;tue;fri,4,760
+G0105,"Need help with calendar scheduling, transcription, event banner graphics, design detail oriented",virtual_assistance;transcription;poster_design,thu;sat,9,1170
+G0106,"Hiring a freelancer for figma mockups, app wireframes detail oriented",ui_design,tue;thu;sat,4,1640
+G0107,"Small business needs virtual assistance, data entry, admin willing to learn",virtual_assistance;data_entry,sat,10,1800
+G0108,Need help with calculus coaching friendly communication,math_tutoring,fri;sat,9,2970
+G0109,"Need help with proofreading, grammar checking, reels and tiktok editing, capcut editing, marketing copy detail oriented",proofreading;video_editing;copywriting,tue;sat,7,1890
+G0110,"Looking for a student who can do tagalog translation, writing, grammar checking, writing, spreadsheet automation, spreadsheet automation, programming reliable and responsive",translation;proofreading;spreadsheet_work,tue;thu;sat,9,1890
+G0111,"Looking for a student who can do online selling, live selling hosting, product photography, flat lay shots, photography willing to learn",online_selling;product_photography,thu,6,1440
+G0112,"Hiring a freelancer for calendar scheduling, data entry, admin reliable and responsive",virtual_assistance;data_entry,sat,8,800
+G0113,"Seeking someone experienced in marketing copy, website building, landing page coding flexible schedule",copywriting;web_development,thu,10,2600
+G0114,"Looking for a student who can do social media management, media, online admin support, online admin support, science tutoring, tutoring flexible schedule",social_media_mgmt;virtual_assistance;science_tutoring,sat,6,1920
+G0115,"Short task requiring python scripting, python scripting willing to learn",python_programming,thu,8,3200
+G0116,"Hiring a freelancer for pubmat creation, design flexible schedule",poster_design,mon;wed;fri,8,2640
+G0117,"Need help with online selling, shopee store management, commerce flexible schedule",online_selling,wed;thu,10,4400
+G0118,"Need help with virtual assistance, copywriting, ad caption writing can meet deadlines",virtual_assistance;copywriting,mon;tue;sun,7,2870
+G0119,Small business needs web development detail oriented,web_development,tue;fri,2,840
+G0120,"Seeking someone experienced in community moderation, reels and tiktok editing, premiere pro cuts friendly communication",social_media_mgmt;video_editing,tue;fri;sun,6,2400
+G0121,"Seeking someone experienced in grammar lessons, social media management, media detail oriented",english_tutoring;social_media_mgmt,sun,8,1360
+G0122,"Looking for a student who can do calendar scheduling, flyer layout, interview transcribing, admin reliable and responsive",virtual_assistance;poster_design;transcription,thu,8,3360
+G0123,Looking for a student who can do product photography friendly communication,product_photography,sun,4,1160
+G0124,"Small business needs excel spreadsheets, programming, social media management reliable and responsive",spreadsheet_work;social_media_mgmt,wed;thu;fri,2,800
+G0125,"Seeking someone experienced in math tutoring, tutoring, data entry, admin, proofreading can meet deadlines",math_tutoring;data_entry;proofreading,mon;sun,9,3150
+G0126,"Need help with filipino english translation, marketing copy, product descriptions, writing can meet deadlines",translation;copywriting,sat,7,3010
+G0127,"Seeking someone experienced in physics lessons, esl conversation practice, reading comprehension coaching, product descriptions detail oriented",science_tutoring;english_tutoring;copywriting,mon;tue;thu,5,500
+G0128,"Seeking someone experienced in web development, website building, excel spreadsheets, google sheets formulas willing to learn",web_development;spreadsheet_work,thu;sun,5,1900
+G0129,"Seeking someone experienced in video editing, premiere pro cuts, media willing to learn",video_editing,mon;fri;sat,10,1200
+G0130,"Looking for a student who can do pubmat creation, design, online selling, lazada listings quick turnaround",poster_design;online_selling,fri;sun,4,1200
+G0131,"Hiring a freelancer for web development, programming, filipino english translation, document localization, event coverage shoot flexible schedule",web_development;translation;event_photography,tue;sat,5,1350
+G0132,"Seeking someone experienced in transcription, meeting minutes writing, calendar scheduling, email management, admin, event photography, occasion photoshoot can meet deadlines",transcription;virtual_assistance;event_photography,tue,5,1650
+G0133,Seeking someone experienced in excel spreadsheets flexible schedule,spreadsheet_work,fri;sat;sun,5,1650
+G0134,Looking for a student who can do flyer layout can meet deadlines,poster_design,mon,2,900
+G0135,"Small business needs html css javascript, flyer layout, python scripting, python scripting, programming flexible schedule",web_development;poster_design;python_programming,thu;fri,4,1720
+G0136,"Need help with social media management, facebook page handling, english tutoring, capcut editing, media flexible schedule",social_media_mgmt;english_tutoring;video_editing,mon;wed,6,1980
+G0137,"Looking for a student who can do pandas data cleaning, data entry, encoding records, admin detail oriented",python_programming;data_entry,mon;thu,7,1610
+G0138,"Seeking someone experienced in online selling, esl conversation practice, transcription, audio to text typing flexible schedule",online_selling;english_tutoring;transcription,fri;sat,8,3600
+G0139,Hiring a freelancer for instagram content scheduling detail oriented,social_media_mgmt,fri,9,1350
+G0140,"Looking for a student who can do subtitle translation, audio to text typing, meeting minutes writing, form digitization quick turnaround",translation;transcription;data_entry,mon;fri,5,750
+G0141,"Looking for a student who can do ui design, physics lessons friendly communication",ui_design;science_tutoring,wed,3,930
+G0142,"Looking for a student who can do encoding records, encoding records detail oriented",data_entry,mon,5,1150
+G0143,"Seeking someone experienced in pivot table reports, programming detail oriented",spreadsheet_work,thu,5,1050
+G0144,"Hiring a freelancer for premiere pro cuts, filipino english translation, social media management, community moderation quick turnaround",video_editing;translation;social_media_mgmt,tue;thu;sun,8,2320
+G0145,"Seeking someone experienced in manuscript polishing, filipino english translation, writing, poster design flexible schedule",proofreading;translation;poster_design,sun,4,1040
+G0146,Short task requiring web development friendly communication,web_development,wed;fri,6,900
+G0147,Seeking someone experienced in biology coaching willing to learn,science_tutoring,thu;fri;sun,8,2080
+G0148,Short task requiring excel spreadsheets willing to learn,spreadsheet_work,mon;fri,5,1750
+G0149,"Looking for a student who can do shopee store management, encoding records, encoding records, admin, english tutoring, tutoring flexible schedule",online_selling;data_entry;english_tutoring,fri;sun,8,2240
+G0150,"Small business needs social media management, media, excel spreadsheets, programming, premiere pro cuts quick turnaround",social_media_mgmt;spreadsheet_work;video_editing,tue;fri;sun,7,2870
+G0151,Looking for a student who can do logo design quick turnaround,logo_design,tue;fri;sat,5,1750
+G0152,"Hiring a freelancer for audio to text typing, live selling hosting friendly communication",transcription;online_selling,sat,8,1120
+G0153,"Short task requiring poster design, subtitle translation, writing, figma mockups, app wireframes, design detail oriented",poster_design;translation;ui_design,wed;thu;fri,7,910
+G0154,"Looking for a student who can do html css javascript, programming, chemistry review, english tutoring, tutoring detail oriented",web_development;science_tutoring;english_tutoring,mon;wed;thu,9,1710
+G0155,"Short task requiring document localization, writing, web development, programming, facebook page handling, media can meet deadlines",translation;web_development;social_media_mgmt,tue;thu,3,750
+G0156,"Short task requiring interview transcribing, data entry, email management willing to learn",transcription;data_entry;virtual_assistance,tue;sat,3,360
+G0157,Short task requiring physics lessons reliable and responsive,science_tutoring,mon;thu;sat,7,3080
+G0158,"Seeking someone experienced in figma mockups, figma mockups, web development, programming flexible schedule",ui_design;web_development,mon;tue;thu,2,480
+G0159,"Need help with calculus coaching, tutoring friendly communication",math_tutoring,wed;thu;sat,9,2520
+G0160,"Seeking someone experienced in virtual assistance, admin, spreadsheet automation reliable and responsive",virtual_assistance;spreadsheet_work,tue,10,4000
+G0161,"Need help with audio to text typing, admin, document editing, writing friendly communication",transcription;proofreading,mon,5,1000
+G0162,"Hiring a freelancer for reels and tiktok editing, event photography, event coverage shoot, photography, data entry, admin willing to learn",video_editing;event_photography;data_entry,tue,2,600
+G0163,"Need help with marketing copy, product descriptions, party photos friendly communication",copywriting;event_photography,mon;thu;sat,6,2040
+G0164,"Looking for a student who can do brand mark creation, design, ui design quick turnaround",logo_design;ui_design,mon;tue;wed,8,1920
+G0165,"Seeking someone experienced in form digitization, form digitization, admin friendly communication",data_entry,tue;thu;sun,10,4300
+G0166,"Hiring a freelancer for party photos, python programming willing to learn",event_photography;python_programming,sun,9,990
+G0167,Hiring a freelancer for document localization detail oriented,translation,mon;sun,10,1200
+G0168,"Short task requiring online selling, commerce, python scripting, product descriptions detail oriented",online_selling;python_programming;copywriting,mon;tue;thu,2,600
+G0169,"Seeking someone experienced in chemistry review, form digitization, form digitization, landing page coding, website building, programming detail oriented",science_tutoring;data_entry;web_development,wed;thu,8,2560
+G0170,Short task requiring premiere pro cuts flexible schedule,video_editing,fri,5,1950
+G0171,"Small business needs manuscript polishing, writing, copywriting, product descriptions willing to learn",proofreading;copywriting,mon;wed,4,1400
+G0172,"Looking for a student who can do video editing, social media management flexible schedule",video_editing;social_media_mgmt,fri,3,1320
+G0173,"Small business needs flyer layout, calendar scheduling, audio to text typing reliable and responsive",poster_design;virtual_assistance;transcription,thu;fri,8,2080
+G0174,"Need help with form digitization, database encoding, audio to text typing, meeting minutes writing willing to learn",data_entry;transcription,wed;fri,4,1240
+G0175,"Small business needs app wireframes, design, python scripting, automation scripts, programming reliable and responsive",ui_design;python_programming,thu;sat,8,1520
+G0176,Seeking someone experienced in logo design reliable and responsive,logo_design,wed;thu;sun,4,560
+G0177,"Short task requiring video editing, event banner graphics friendly communication",video_editing;poster_design,wed;fri,5,1500
+G0178,Seeking someone experienced in interview transcribing willing to learn,transcription,sun,2,460
+G0179,"Seeking someone experienced in shopee store management, filipino english translation, writing quick turnaround",online_selling;translation,mon,7,2380
+G0180,"Need help with data entry, poster design, design flexible schedule",data_entry;poster_design,mon;thu;sat,4,800
+G0181,"Need help with copywriting, product descriptions, writing, document editing, transcription, audio to text typing detail oriented",copywriting;proofreading;transcription,thu;fri,4,560
+G0182,"Small business needs grammar checking, manuscript polishing, subtitle translation, copywriting quick turnaround",proofreading;translation;copywriting,tue,2,340
+G0183,"Hiring a freelancer for pubmat creation, ui design, design, visual identity kit detail oriented",poster_design;ui_design;logo_design,tue,5,1100
+G0184,"Need help with ui design, visual identity kit friendly communication",ui_design;logo_design,tue;sun,4,560
+G0185,"Short task requiring product photography, photography, reading comprehension coaching flexible schedule",product_photography;english_tutoring,tue;sun,10,3200
+G0186,"Need help with document localization, writing, proofreading reliable and responsive",translation;proofreading,fri;sat;sun,10,2100
+G0187,"Looking for a student who can do shopee store management, ad caption writing, writing, algebra lessons reliable and responsive",online_selling;copywriting;math_tutoring,mon;wed;thu,8,2560
+G0188,"Hiring a freelancer for online selling, english tutoring, virtual assistance reliable and responsive",online_selling;english_tutoring;virtual_assistance,wed;thu,4,1640
+G0189,"Looking for a student who can do social media management, facebook page handling quick turnaround",social_media_mgmt,mon;tue;sun,4,1560
+G0190,"Short task requiring automation scripts, programming, landing page coding, programming quick turnaround",python_programming;web_development,wed;fri,10,3400
+G0191,"Need help with lazada listings, event photography, photography friendly communication",online_selling;event_photography,mon;tue;sun,3,510
+G0192,"Small business needs catalog photos, photography, brand identity friendly communication",product_photography;logo_design,tue;wed;sun,9,2430
+G0193,Small business needs web development reliable and responsive,web_development,thu;fri,7,1890
+G0194,"Need help with html css javascript, landing page coding, programming, facebook page handling, instagram content scheduling, media detail oriented",web_development;social_media_mgmt,mon;tue;wed,10,1300
+G0195,"Seeking someone experienced in filipino english translation, manuscript polishing, marketing copy willing to learn",translation;proofreading;copywriting,mon;thu;fri,10,2600
+G0196,"Small business needs math tutoring, grammar lessons detail oriented",math_tutoring;english_tutoring,thu;sun,6,2580
+G0197,"Small business needs event banner graphics, ui design reliable and responsive",poster_design;ui_design,thu;fri;sat,5,800
+G0198,Looking for a student who can do online selling flexible schedule,online_selling,wed,10,3300
+G0199,"Need help with facebook page handling, media, video editing, reels and tiktok editing flexible schedule",social_media_mgmt;video_editing,fri;sat,3,660
