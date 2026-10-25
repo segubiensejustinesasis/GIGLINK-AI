@@ -1,0 +1,124 @@
+{
+  "config": {
+    "n_gigs": 200,
+    "n_seekers": 400,
+    "synonym_prob": 0.6,
+    "tag_drop_prob": 0.25,
+    "tag_spurious_prob": 0.3,
+    "cold_start_prob": 0.3,
+    "seed": 0
+  },
+  "n_main_seeds": 20,
+  "n_side_seeds": 5,
+  "lsa_k": 40,
+  "svd_n_iter": 7,
+  "w_text_grid": [
+    0.0,
+    0.1,
+    0.2,
+    0.3,
+    0.4,
+    0.5,
+    0.6,
+    0.7,
+    0.8,
+    0.9,
+    1.0
+  ],
+  "w_rating_grid": [
+    0.0,
+    0.05,
+    0.1,
+    0.2
+  ],
+  "selected_params_mode": {
+    "text": "LSA",
+    "w_text": 0.3,
+    "w_rating": 0.0
+  },
+  "selected_params_counts": [
+    {
+      "text": "LSA",
+      "w_text": 0.2,
+      "w_rating": 0.0,
+      "count": 2
+    },
+    {
+      "text": "LSA",
+      "w_text": 0.3,
+      "w_rating": 0.0,
+      "count": 6
+    },
+    {
+      "text": "LSA",
+      "w_text": 0.3,
+      "w_rating": 0.05,
+      "count": 1
+    },
+    {
+      "text": "LSA",
+      "w_text": 0.4,
+      "w_rating": 0.0,
+      "count": 3
+    },
+    {
+      "text": "LSA",
+      "w_text": 0.4,
+      "w_rating": 0.1,
+      "count": 3
+    },
+    {
+      "text": "LSA",
+      "w_text": 0.4,
+      "w_rating": 0.2,
+      "count": 1
+    },
+    {
+      "text": "TF-IDF",
+      "w_text": 0.3,
+      "w_rating": 0.0,
+      "count": 3
+    },
+    {
+      "text": "TF-IDF",
+      "w_text": 0.4,
+      "w_rating": 0.0,
+      "count": 1
+    }
+  ],
+  "svd": {
+    "matrix_shape": [
+      600,
+      187
+    ],
+    "nnz": 7559,
+    "k": 40,
+    "exact_low_rank_fro_err": 0.5581646574095432,
+    "sigma_1": 7.048997366799094,
+    "sigma_k": 2.3580254857098626
+  },
+  "runtime_loglog_slopes_n>=400": {
+    "TF-IDF scoring": 1.2492284719643956,
+    "Jaccard scoring": 2.332167521215254,
+    "Hungarian assignment": 2.6155236768994614,
+    "Greedy assignment": 2.167422081370343
+  },
+  "dataset_seed0": {
+    "feasible_fraction": 0.44175,
+    "relevance_distribution": [
+      0.878825,
+      0.043625,
+      0.051075,
+      0.026475
+    ],
+    "mean_relevant_per_gig_rel>=2": 31.02,
+    "cold_start_fraction": 0.325,
+    "vocabulary_size": 187
+  },
+  "total_runtime_seconds": 85.76459402299997,
+  "numpy": "2.5.3",
+  "pandas": "3.0.5",
+  "scipy": "1.18.1",
+  "sklearn": "1.9.1",
+  "matplotlib": "3.11.2"
+}

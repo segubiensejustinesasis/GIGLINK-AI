@@ -1,0 +1,331 @@
+factor,level,seed,method,nDCG@10
+synonym_prob,0.0,0,Random,0.18451415344435237
+synonym_prob,0.0,0,Keyword,0.808797963276498
+synonym_prob,0.0,0,Jaccard (tags),0.8932210597371198
+synonym_prob,0.0,0,TF-IDF,0.7774127506365215
+synonym_prob,0.0,0,LSA,0.8173321678881189
+synonym_prob,0.0,0,Hybrid,0.935913646819516
+synonym_prob,0.0,1,Random,0.19006038146655954
+synonym_prob,0.0,1,Keyword,0.8267600859567336
+synonym_prob,0.0,1,Jaccard (tags),0.8582066927102077
+synonym_prob,0.0,1,TF-IDF,0.787397028188038
+synonym_prob,0.0,1,LSA,0.8136072534979507
+synonym_prob,0.0,1,Hybrid,0.905831337727873
+synonym_prob,0.0,2,Random,0.16963437199563078
+synonym_prob,0.0,2,Keyword,0.7972160866136963
+synonym_prob,0.0,2,Jaccard (tags),0.8555900383516897
+synonym_prob,0.0,2,TF-IDF,0.7887910126598844
+synonym_prob,0.0,2,LSA,0.8329649208483871
+synonym_prob,0.0,2,Hybrid,0.9128604221978965
+synonym_prob,0.0,3,Random,0.17972797773913693
+synonym_prob,0.0,3,Keyword,0.8027489835556847
+synonym_prob,0.0,3,Jaccard (tags),0.8669139526771127
+synonym_prob,0.0,3,TF-IDF,0.797438081441181
+synonym_prob,0.0,3,LSA,0.8264520627229766
+synonym_prob,0.0,3,Hybrid,0.9219917384773152
+synonym_prob,0.0,4,Random,0.18355950316143127
+synonym_prob,0.0,4,Keyword,0.8092469001279241
+synonym_prob,0.0,4,Jaccard (tags),0.8778739345999886
+synonym_prob,0.0,4,TF-IDF,0.8038349062546272
+synonym_prob,0.0,4,LSA,0.8322247610622796
+synonym_prob,0.0,4,Hybrid,0.9294733335763052
+synonym_prob,0.2,0,Random,0.17073586226778317
+synonym_prob,0.2,0,Keyword,0.7215716261617325
+synonym_prob,0.2,0,Jaccard (tags),0.8758608555525523
+synonym_prob,0.2,0,TF-IDF,0.7645313256209196
+synonym_prob,0.2,0,LSA,0.7523112502479143
+synonym_prob,0.2,0,Hybrid,0.9160064924150418
+synonym_prob,0.2,1,Random,0.17833015519253878
+synonym_prob,0.2,1,Keyword,0.730672276217647
+synonym_prob,0.2,1,Jaccard (tags),0.8988002657213294
+synonym_prob,0.2,1,TF-IDF,0.7728196706137643
+synonym_prob,0.2,1,LSA,0.7664213915740825
+synonym_prob,0.2,1,Hybrid,0.9310104003063767
+synonym_prob,0.2,2,Random,0.17414097692828545
+synonym_prob,0.2,2,Keyword,0.7390446942314854
+synonym_prob,0.2,2,Jaccard (tags),0.8880265813487855
+synonym_prob,0.2,2,TF-IDF,0.7561175644009677
+synonym_prob,0.2,2,LSA,0.7493077785930344
+synonym_prob,0.2,2,Hybrid,0.9230362240675674
+synonym_prob,0.2,3,Random,0.17461065812560125
+synonym_prob,0.2,3,Keyword,0.7353890460567611
+synonym_prob,0.2,3,Jaccard (tags),0.8657994270500597
+synonym_prob,0.2,3,TF-IDF,0.7635890992293354
+synonym_prob,0.2,3,LSA,0.7464557181425291
+synonym_prob,0.2,3,Hybrid,0.9125456698524491
+synonym_prob,0.2,4,Random,0.19373381368395584
+synonym_prob,0.2,4,Keyword,0.7237692067599397
+synonym_prob,0.2,4,Jaccard (tags),0.874819302242176
+synonym_prob,0.2,4,TF-IDF,0.7561301454255985
+synonym_prob,0.2,4,LSA,0.7425251080789471
+synonym_prob,0.2,4,Hybrid,0.9170234849108673
+synonym_prob,0.4,0,Random,0.17265207717613465
+synonym_prob,0.4,0,Keyword,0.681910063150892
+synonym_prob,0.4,0,Jaccard (tags),0.8580793180392022
+synonym_prob,0.4,0,TF-IDF,0.7357473705105239
+synonym_prob,0.4,0,LSA,0.7049070143088271
+synonym_prob,0.4,0,Hybrid,0.9030865742179909
+synonym_prob,0.4,1,Random,0.1900917273208442
+synonym_prob,0.4,1,Keyword,0.6898325983450074
+synonym_prob,0.4,1,Jaccard (tags),0.8748776285116869
+synonym_prob,0.4,1,TF-IDF,0.762208900516226
+synonym_prob,0.4,1,LSA,0.7135881078268984
+synonym_prob,0.4,1,Hybrid,0.9149884263277182
+synonym_prob,0.4,2,Random,0.16208687096858576
+synonym_prob,0.4,2,Keyword,0.6812014827824513
+synonym_prob,0.4,2,Jaccard (tags),0.8598403908610845
+synonym_prob,0.4,2,TF-IDF,0.7396402713785
+synonym_prob,0.4,2,LSA,0.70361000923774
+synonym_prob,0.4,2,Hybrid,0.8888854003134894
+synonym_prob,0.4,3,Random,0.18055725904092285
+synonym_prob,0.4,3,Keyword,0.6933137073004548
+synonym_prob,0.4,3,Jaccard (tags),0.8835400811635895
+synonym_prob,0.4,3,TF-IDF,0.7541922154344247
+synonym_prob,0.4,3,LSA,0.7240908587933171
+synonym_prob,0.4,3,Hybrid,0.9176817893612841
+synonym_prob,0.4,4,Random,0.18368717003426677
+synonym_prob,0.4,4,Keyword,0.6998688908788563
+synonym_prob,0.4,4,Jaccard (tags),0.8874805887900937
+synonym_prob,0.4,4,TF-IDF,0.7498649953275032
+synonym_prob,0.4,4,LSA,0.7116169600378512
+synonym_prob,0.4,4,Hybrid,0.9120191753440022
+synonym_prob,0.6,0,Random,0.18322474859568316
+synonym_prob,0.6,0,Keyword,0.6537044841832155
+synonym_prob,0.6,0,Jaccard (tags),0.8502158768251697
+synonym_prob,0.6,0,TF-IDF,0.7363191923633117
+synonym_prob,0.6,0,LSA,0.6926741814155638
+synonym_prob,0.6,0,Hybrid,0.8919772811102475
+synonym_prob,0.6,1,Random,0.17434282589904068
+synonym_prob,0.6,1,Keyword,0.6816463228666585
+synonym_prob,0.6,1,Jaccard (tags),0.8771884230509843
+synonym_prob,0.6,1,TF-IDF,0.7502680891716349
+synonym_prob,0.6,1,LSA,0.7118481876817384
+synonym_prob,0.6,1,Hybrid,0.9063525773444704
+synonym_prob,0.6,2,Random,0.1922104193156386
+synonym_prob,0.6,2,Keyword,0.673780193836765
+synonym_prob,0.6,2,Jaccard (tags),0.8809631842387233
+synonym_prob,0.6,2,TF-IDF,0.7535834856842822
+synonym_prob,0.6,2,LSA,0.7051052651370463
+synonym_prob,0.6,2,Hybrid,0.9091993229692997
+synonym_prob,0.6,3,Random,0.17954133623551682
+synonym_prob,0.6,3,Keyword,0.6623626360733809
+synonym_prob,0.6,3,Jaccard (tags),0.8578265118278753
+synonym_prob,0.6,3,TF-IDF,0.7473252367690152
+synonym_prob,0.6,3,LSA,0.6844736268157612
+synonym_prob,0.6,3,Hybrid,0.88677879749705
+synonym_prob,0.6,4,Random,0.1750206483711568
+synonym_prob,0.6,4,Keyword,0.678313172961954
+synonym_prob,0.6,4,Jaccard (tags),0.8983246493364283
+synonym_prob,0.6,4,TF-IDF,0.7409477703223939
+synonym_prob,0.6,4,LSA,0.6903408305255314
+synonym_prob,0.6,4,Hybrid,0.919603143481977
+synonym_prob,0.8,0,Random,0.19439009998998247
+synonym_prob,0.8,0,Keyword,0.6711132791436641
+synonym_prob,0.8,0,Jaccard (tags),0.8633826664503215
+synonym_prob,0.8,0,TF-IDF,0.7345688563784133
+synonym_prob,0.8,0,LSA,0.6776118137294473
+synonym_prob,0.8,0,Hybrid,0.9034248696668109
+synonym_prob,0.8,1,Random,0.1886576139839783
+synonym_prob,0.8,1,Keyword,0.6870395303013694
+synonym_prob,0.8,1,Jaccard (tags),0.877205830929045
+synonym_prob,0.8,1,TF-IDF,0.7640259661039588
+synonym_prob,0.8,1,LSA,0.7180669422949457
+synonym_prob,0.8,1,Hybrid,0.9020876887055658
+synonym_prob,0.8,2,Random,0.16265398197087635
+synonym_prob,0.8,2,Keyword,0.6868399808411888
+synonym_prob,0.8,2,Jaccard (tags),0.873233528141009
+synonym_prob,0.8,2,TF-IDF,0.7573588974531866
+synonym_prob,0.8,2,LSA,0.7177498138518729
+synonym_prob,0.8,2,Hybrid,0.9081430219054121
+synonym_prob,0.8,3,Random,0.1918472830424
+synonym_prob,0.8,3,Keyword,0.6691333082079339
+synonym_prob,0.8,3,Jaccard (tags),0.8699030956490472
+synonym_prob,0.8,3,TF-IDF,0.7455222559529485
+synonym_prob,0.8,3,LSA,0.7010140038039728
+synonym_prob,0.8,3,Hybrid,0.9040865255315148
+synonym_prob,0.8,4,Random,0.18819827856272434
+synonym_prob,0.8,4,Keyword,0.6918077523306319
+synonym_prob,0.8,4,Jaccard (tags),0.8796554982919431
+synonym_prob,0.8,4,TF-IDF,0.7408603440194393
+synonym_prob,0.8,4,LSA,0.7064880496729924
+synonym_prob,0.8,4,Hybrid,0.9077253416984833
+synonym_prob,1.0,0,Random,0.18659931047425954
+synonym_prob,1.0,0,Keyword,0.7145252169236318
+synonym_prob,1.0,0,Jaccard (tags),0.8940763434599611
+synonym_prob,1.0,0,TF-IDF,0.7785854686938753
+synonym_prob,1.0,0,LSA,0.7398128117035648
+synonym_prob,1.0,0,Hybrid,0.9123556945777308
+synonym_prob,1.0,1,Random,0.1696138448823305
+synonym_prob,1.0,1,Keyword,0.7246087684487108
+synonym_prob,1.0,1,Jaccard (tags),0.8768008608297921
+synonym_prob,1.0,1,TF-IDF,0.786666439608104
+synonym_prob,1.0,1,LSA,0.740425539200178
+synonym_prob,1.0,1,Hybrid,0.9133725327899151
+synonym_prob,1.0,2,Random,0.1707281362317227
+synonym_prob,1.0,2,Keyword,0.7275519301217425
+synonym_prob,1.0,2,Jaccard (tags),0.8710102824886254
+synonym_prob,1.0,2,TF-IDF,0.7829988090308705
+synonym_prob,1.0,2,LSA,0.7463387983517652
+synonym_prob,1.0,2,Hybrid,0.906204527261131
+synonym_prob,1.0,3,Random,0.17015196831778326
+synonym_prob,1.0,3,Keyword,0.712507269227778
+synonym_prob,1.0,3,Jaccard (tags),0.890165451668237
+synonym_prob,1.0,3,TF-IDF,0.770794022571181
+synonym_prob,1.0,3,LSA,0.7340500060193168
+synonym_prob,1.0,3,Hybrid,0.9212499974649078
+synonym_prob,1.0,4,Random,0.1671683493577516
+synonym_prob,1.0,4,Keyword,0.7270298866547591
+synonym_prob,1.0,4,Jaccard (tags),0.8938838721512912
+synonym_prob,1.0,4,TF-IDF,0.779879025105597
+synonym_prob,1.0,4,LSA,0.729032704649716
+synonym_prob,1.0,4,Hybrid,0.9200133891508248
+tag_drop_prob,0.0,0,Random,0.18322474859568316
+tag_drop_prob,0.0,0,Keyword,0.6537044841832155
+tag_drop_prob,0.0,0,Jaccard (tags),0.9668846048359306
+tag_drop_prob,0.0,0,TF-IDF,0.7363191923633117
+tag_drop_prob,0.0,0,LSA,0.6926741814155638
+tag_drop_prob,0.0,0,Hybrid,0.9779154807871197
+tag_drop_prob,0.0,1,Random,0.17434282589904068
+tag_drop_prob,0.0,1,Keyword,0.6816463228666585
+tag_drop_prob,0.0,1,Jaccard (tags),0.9815943510560445
+tag_drop_prob,0.0,1,TF-IDF,0.7502680891716349
+tag_drop_prob,0.0,1,LSA,0.7118481876817384
+tag_drop_prob,0.0,1,Hybrid,0.9844052980480348
+tag_drop_prob,0.0,2,Random,0.1922104193156386
+tag_drop_prob,0.0,2,Keyword,0.673780193836765
+tag_drop_prob,0.0,2,Jaccard (tags),0.9698888424655143
+tag_drop_prob,0.0,2,TF-IDF,0.7535834856842822
+tag_drop_prob,0.0,2,LSA,0.7051052651370463
+tag_drop_prob,0.0,2,Hybrid,0.9793213674424323
+tag_drop_prob,0.0,3,Random,0.17954133623551682
+tag_drop_prob,0.0,3,Keyword,0.6623626360733809
+tag_drop_prob,0.0,3,Jaccard (tags),0.9619612992856261
+tag_drop_prob,0.0,3,TF-IDF,0.7473252367690152
+tag_drop_prob,0.0,3,LSA,0.6844736268157612
+tag_drop_prob,0.0,3,Hybrid,0.9740137515508015
+tag_drop_prob,0.0,4,Random,0.1750206483711568
+tag_drop_prob,0.0,4,Keyword,0.678313172961954
+tag_drop_prob,0.0,4,Jaccard (tags),0.9807238368471123
+tag_drop_prob,0.0,4,TF-IDF,0.7409477703223939
+tag_drop_prob,0.0,4,LSA,0.6903408305255314
+tag_drop_prob,0.0,4,Hybrid,0.9841801532368152
+tag_drop_prob,0.15,0,Random,0.18322474859568316
+tag_drop_prob,0.15,0,Keyword,0.6537044841832155
+tag_drop_prob,0.15,0,Jaccard (tags),0.904660478561278
+tag_drop_prob,0.15,0,TF-IDF,0.7363191923633117
+tag_drop_prob,0.15,0,LSA,0.6926741814155638
+tag_drop_prob,0.15,0,Hybrid,0.9271582189850177
+tag_drop_prob,0.15,1,Random,0.17434282589904068
+tag_drop_prob,0.15,1,Keyword,0.6816463228666585
+tag_drop_prob,0.15,1,Jaccard (tags),0.9112793341233302
+tag_drop_prob,0.15,1,TF-IDF,0.7502680891716349
+tag_drop_prob,0.15,1,LSA,0.7118481876817384
+tag_drop_prob,0.15,1,Hybrid,0.9350354150300341
+tag_drop_prob,0.15,2,Random,0.1922104193156386
+tag_drop_prob,0.15,2,Keyword,0.673780193836765
+tag_drop_prob,0.15,2,Jaccard (tags),0.9157093942808412
+tag_drop_prob,0.15,2,TF-IDF,0.7535834856842822
+tag_drop_prob,0.15,2,LSA,0.7051052651370463
+tag_drop_prob,0.15,2,Hybrid,0.9385718993515775
+tag_drop_prob,0.15,3,Random,0.17954133623551682
+tag_drop_prob,0.15,3,Keyword,0.6623626360733809
+tag_drop_prob,0.15,3,Jaccard (tags),0.8971374250366508
+tag_drop_prob,0.15,3,TF-IDF,0.7473252367690152
+tag_drop_prob,0.15,3,LSA,0.6844736268157612
+tag_drop_prob,0.15,3,Hybrid,0.9151465572681772
+tag_drop_prob,0.15,4,Random,0.1750206483711568
+tag_drop_prob,0.15,4,Keyword,0.678313172961954
+tag_drop_prob,0.15,4,Jaccard (tags),0.9342940095359538
+tag_drop_prob,0.15,4,TF-IDF,0.7409477703223939
+tag_drop_prob,0.15,4,LSA,0.6903408305255314
+tag_drop_prob,0.15,4,Hybrid,0.9479787264608313
+tag_drop_prob,0.3,0,Random,0.18322474859568316
+tag_drop_prob,0.3,0,Keyword,0.6537044841832155
+tag_drop_prob,0.3,0,Jaccard (tags),0.8261924638050553
+tag_drop_prob,0.3,0,TF-IDF,0.7363191923633117
+tag_drop_prob,0.3,0,LSA,0.6926741814155638
+tag_drop_prob,0.3,0,Hybrid,0.8723528703407666
+tag_drop_prob,0.3,1,Random,0.17434282589904068
+tag_drop_prob,0.3,1,Keyword,0.6816463228666585
+tag_drop_prob,0.3,1,Jaccard (tags),0.8582821529544935
+tag_drop_prob,0.3,1,TF-IDF,0.7502680891716349
+tag_drop_prob,0.3,1,LSA,0.7118481876817384
+tag_drop_prob,0.3,1,Hybrid,0.8944835809504699
+tag_drop_prob,0.3,2,Random,0.1922104193156386
+tag_drop_prob,0.3,2,Keyword,0.673780193836765
+tag_drop_prob,0.3,2,Jaccard (tags),0.8480782645654509
+tag_drop_prob,0.3,2,TF-IDF,0.7535834856842822
+tag_drop_prob,0.3,2,LSA,0.7051052651370463
+tag_drop_prob,0.3,2,Hybrid,0.8858509903339703
+tag_drop_prob,0.3,3,Random,0.17954133623551682
+tag_drop_prob,0.3,3,Keyword,0.6623626360733809
+tag_drop_prob,0.3,3,Jaccard (tags),0.8308732537223388
+tag_drop_prob,0.3,3,TF-IDF,0.7473252367690152
+tag_drop_prob,0.3,3,LSA,0.6844736268157612
+tag_drop_prob,0.3,3,Hybrid,0.8681102372581306
+tag_drop_prob,0.3,4,Random,0.1750206483711568
+tag_drop_prob,0.3,4,Keyword,0.678313172961954
+tag_drop_prob,0.3,4,Jaccard (tags),0.8821477404230373
+tag_drop_prob,0.3,4,TF-IDF,0.7409477703223939
+tag_drop_prob,0.3,4,LSA,0.6903408305255314
+tag_drop_prob,0.3,4,Hybrid,0.9099091220783575
+tag_drop_prob,0.45,0,Random,0.18322474859568316
+tag_drop_prob,0.45,0,Keyword,0.6537044841832155
+tag_drop_prob,0.45,0,Jaccard (tags),0.7502983278199201
+tag_drop_prob,0.45,0,TF-IDF,0.7363191923633117
+tag_drop_prob,0.45,0,LSA,0.6926741814155638
+tag_drop_prob,0.45,0,Hybrid,0.8134758635698094
+tag_drop_prob,0.45,1,Random,0.17434282589904068
+tag_drop_prob,0.45,1,Keyword,0.6816463228666585
+tag_drop_prob,0.45,1,Jaccard (tags),0.7987907604797675
+tag_drop_prob,0.45,1,TF-IDF,0.7502680891716349
+tag_drop_prob,0.45,1,LSA,0.7118481876817384
+tag_drop_prob,0.45,1,Hybrid,0.8462208735888711
+tag_drop_prob,0.45,2,Random,0.1922104193156386
+tag_drop_prob,0.45,2,Keyword,0.673780193836765
+tag_drop_prob,0.45,2,Jaccard (tags),0.7823535204272625
+tag_drop_prob,0.45,2,TF-IDF,0.7535834856842822
+tag_drop_prob,0.45,2,LSA,0.7051052651370463
+tag_drop_prob,0.45,2,Hybrid,0.8356442326384211
+tag_drop_prob,0.45,3,Random,0.17954133623551682
+tag_drop_prob,0.45,3,Keyword,0.6623626360733809
+tag_drop_prob,0.45,3,Jaccard (tags),0.7689914402720721
+tag_drop_prob,0.45,3,TF-IDF,0.7473252367690152
+tag_drop_prob,0.45,3,LSA,0.6844736268157612
+tag_drop_prob,0.45,3,Hybrid,0.8180394459261603
+tag_drop_prob,0.45,4,Random,0.1750206483711568
+tag_drop_prob,0.45,4,Keyword,0.678313172961954
+tag_drop_prob,0.45,4,Jaccard (tags),0.8202878885635968
+tag_drop_prob,0.45,4,TF-IDF,0.7409477703223939
+tag_drop_prob,0.45,4,LSA,0.6903408305255314
+tag_drop_prob,0.45,4,Hybrid,0.8621093067430212
+tag_drop_prob,0.6,0,Random,0.18322474859568316
+tag_drop_prob,0.6,0,Keyword,0.6537044841832155
+tag_drop_prob,0.6,0,Jaccard (tags),0.6540301012782069
+tag_drop_prob,0.6,0,TF-IDF,0.7363191923633117
+tag_drop_prob,0.6,0,LSA,0.6926741814155638
+tag_drop_prob,0.6,0,Hybrid,0.7438959397179132
+tag_drop_prob,0.6,1,Random,0.17434282589904068
+tag_drop_prob,0.6,1,Keyword,0.6816463228666585
+tag_drop_prob,0.6,1,Jaccard (tags),0.7180375681137775
+tag_drop_prob,0.6,1,TF-IDF,0.7502680891716349
+tag_drop_prob,0.6,1,LSA,0.7118481876817384
+tag_drop_prob,0.6,1,Hybrid,0.788913789079459
+tag_drop_prob,0.6,2,Random,0.1922104193156386
+tag_drop_prob,0.6,2,Keyword,0.673780193836765
+tag_drop_prob,0.6,2,Jaccard (tags),0.6900226351730834
+tag_drop_prob,0.6,2,TF-IDF,0.7535834856842822
+tag_drop_prob,0.6,2,LSA,0.7051052651370463
+tag_drop_prob,0.6,2,Hybrid,0.7743508968489894
+tag_drop_prob,0.6,3,Random,0.17954133623551682
+tag_drop_prob,0.6,3,Keyword,0.6623626360733809
+tag_drop_prob,0.6,3,Jaccard (tags),0.6856211770542369
+tag_drop_prob,0.6,3,TF-IDF,0.7473252367690152
+tag_drop_prob,0.6,3,LSA,0.6844736268157612
+tag_drop_prob,0.6,3,Hybrid,0.7593389605861108
+tag_drop_prob,0.6,4,Random,0.1750206483711568
+tag_drop_prob,0.6,4,Keyword,0.678313172961954
+tag_drop_prob,0.6,4,Jaccard (tags),0.7249945316481798
+tag_drop_prob,0.6,4,TF-IDF,0.7409477703223939
+tag_drop_prob,0.6,4,LSA,0.6903408305255314
+tag_drop_prob,0.6,4,Hybrid,0.8022423853091261
