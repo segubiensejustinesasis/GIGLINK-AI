@@ -1,0 +1,331 @@
+factor,level,seed,method,nDCG@10
+resume_words,25,0,Random,0.06740554097256238
+resume_words,25,0,Keyword,0.22420169008074392
+resume_words,25,0,Jaccard (tags),0.319625076816456
+resume_words,25,0,TF-IDF,0.24456790241240461
+resume_words,25,0,LSA,0.26366298282594847
+resume_words,25,0,Hybrid,0.3452857917838253
+resume_words,25,1,Random,0.06884521592159738
+resume_words,25,1,Keyword,0.22512880732200838
+resume_words,25,1,Jaccard (tags),0.30921426930905627
+resume_words,25,1,TF-IDF,0.2400688669663915
+resume_words,25,1,LSA,0.2759937358647055
+resume_words,25,1,Hybrid,0.3548721343122186
+resume_words,25,2,Random,0.07083755985591887
+resume_words,25,2,Keyword,0.231631117518465
+resume_words,25,2,Jaccard (tags),0.3167681036688539
+resume_words,25,2,TF-IDF,0.23291129027309887
+resume_words,25,2,LSA,0.2658403453222665
+resume_words,25,2,Hybrid,0.34346684497480395
+resume_words,25,3,Random,0.0686960081824099
+resume_words,25,3,Keyword,0.25333944980028583
+resume_words,25,3,Jaccard (tags),0.34527939583968503
+resume_words,25,3,TF-IDF,0.2537025015905588
+resume_words,25,3,LSA,0.31690636134207467
+resume_words,25,3,Hybrid,0.4016786235810706
+resume_words,25,4,Random,0.06716088963768023
+resume_words,25,4,Keyword,0.22904575715623146
+resume_words,25,4,Jaccard (tags),0.3217622061367937
+resume_words,25,4,TF-IDF,0.25602084927813135
+resume_words,25,4,LSA,0.3183106454170657
+resume_words,25,4,Hybrid,0.3822513800471797
+resume_words,50,0,Random,0.06740554097256238
+resume_words,50,0,Keyword,0.2533353499637623
+resume_words,50,0,Jaccard (tags),0.319625076816456
+resume_words,50,0,TF-IDF,0.26678853525597845
+resume_words,50,0,LSA,0.353550711601247
+resume_words,50,0,Hybrid,0.4075795452287221
+resume_words,50,1,Random,0.06884521592159738
+resume_words,50,1,Keyword,0.23275576188093808
+resume_words,50,1,Jaccard (tags),0.30921426930905627
+resume_words,50,1,TF-IDF,0.2728553955667177
+resume_words,50,1,LSA,0.32192633239515034
+resume_words,50,1,Hybrid,0.38395507807741014
+resume_words,50,2,Random,0.07083755985591887
+resume_words,50,2,Keyword,0.24630223671026102
+resume_words,50,2,Jaccard (tags),0.3167681036688539
+resume_words,50,2,TF-IDF,0.26874863566383295
+resume_words,50,2,LSA,0.3255036630671188
+resume_words,50,2,Hybrid,0.39650309267634803
+resume_words,50,3,Random,0.0686960081824099
+resume_words,50,3,Keyword,0.269303094543494
+resume_words,50,3,Jaccard (tags),0.34527939583968503
+resume_words,50,3,TF-IDF,0.2864303777197625
+resume_words,50,3,LSA,0.38088437884257087
+resume_words,50,3,Hybrid,0.44821037918499657
+resume_words,50,4,Random,0.06716088963768023
+resume_words,50,4,Keyword,0.25571806254054574
+resume_words,50,4,Jaccard (tags),0.3217622061367937
+resume_words,50,4,TF-IDF,0.29735349072321143
+resume_words,50,4,LSA,0.3550560861718726
+resume_words,50,4,Hybrid,0.4095902305258063
+resume_words,100,0,Random,0.06740554097256238
+resume_words,100,0,Keyword,0.2669939175324615
+resume_words,100,0,Jaccard (tags),0.319625076816456
+resume_words,100,0,TF-IDF,0.30381272553117555
+resume_words,100,0,LSA,0.3793548471702799
+resume_words,100,0,Hybrid,0.4240453458085484
+resume_words,100,1,Random,0.06884521592159738
+resume_words,100,1,Keyword,0.25153384045695815
+resume_words,100,1,Jaccard (tags),0.30921426930905627
+resume_words,100,1,TF-IDF,0.3136665182764557
+resume_words,100,1,LSA,0.3807344660758521
+resume_words,100,1,Hybrid,0.42287627493513713
+resume_words,100,2,Random,0.07083755985591887
+resume_words,100,2,Keyword,0.26536746963740865
+resume_words,100,2,Jaccard (tags),0.3167681036688539
+resume_words,100,2,TF-IDF,0.3040325452235737
+resume_words,100,2,LSA,0.36994130199497777
+resume_words,100,2,Hybrid,0.4190062718423765
+resume_words,100,3,Random,0.0686960081824099
+resume_words,100,3,Keyword,0.2895894850577551
+resume_words,100,3,Jaccard (tags),0.34527939583968503
+resume_words,100,3,TF-IDF,0.31354584650681505
+resume_words,100,3,LSA,0.4118045042740848
+resume_words,100,3,Hybrid,0.48338445629308807
+resume_words,100,4,Random,0.06716088963768023
+resume_words,100,4,Keyword,0.27761926927220293
+resume_words,100,4,Jaccard (tags),0.3217622061367937
+resume_words,100,4,TF-IDF,0.33653330872833304
+resume_words,100,4,LSA,0.4063223747263913
+resume_words,100,4,Hybrid,0.45199434068796024
+resume_words,200,0,Random,0.06740554097256238
+resume_words,200,0,Keyword,0.277467723442115
+resume_words,200,0,Jaccard (tags),0.319625076816456
+resume_words,200,0,TF-IDF,0.3229485306056689
+resume_words,200,0,LSA,0.38243636939974296
+resume_words,200,0,Hybrid,0.42626829092690166
+resume_words,200,1,Random,0.06884521592159738
+resume_words,200,1,Keyword,0.2687915884508505
+resume_words,200,1,Jaccard (tags),0.30921426930905627
+resume_words,200,1,TF-IDF,0.33691311346248215
+resume_words,200,1,LSA,0.3926518809660792
+resume_words,200,1,Hybrid,0.43600098401916326
+resume_words,200,2,Random,0.07083755985591887
+resume_words,200,2,Keyword,0.29156843706449975
+resume_words,200,2,Jaccard (tags),0.3167681036688539
+resume_words,200,2,TF-IDF,0.31139955122222407
+resume_words,200,2,LSA,0.3699355251247672
+resume_words,200,2,Hybrid,0.4248935338173808
+resume_words,200,3,Random,0.0686960081824099
+resume_words,200,3,Keyword,0.3139939842109623
+resume_words,200,3,Jaccard (tags),0.34527939583968503
+resume_words,200,3,TF-IDF,0.3390568750369657
+resume_words,200,3,LSA,0.4066367028907518
+resume_words,200,3,Hybrid,0.47117168243409213
+resume_words,200,4,Random,0.06716088963768023
+resume_words,200,4,Keyword,0.29778295224435375
+resume_words,200,4,Jaccard (tags),0.3217622061367937
+resume_words,200,4,TF-IDF,0.35375527337491447
+resume_words,200,4,LSA,0.3932993718417896
+resume_words,200,4,Hybrid,0.4435402697068143
+resume_words,400,0,Random,0.06740554097256238
+resume_words,400,0,Keyword,0.29120878892742214
+resume_words,400,0,Jaccard (tags),0.319625076816456
+resume_words,400,0,TF-IDF,0.345512401228307
+resume_words,400,0,LSA,0.39279486650699524
+resume_words,400,0,Hybrid,0.42892287132982176
+resume_words,400,1,Random,0.06884521592159738
+resume_words,400,1,Keyword,0.27445227540472217
+resume_words,400,1,Jaccard (tags),0.30921426930905627
+resume_words,400,1,TF-IDF,0.35371895955720073
+resume_words,400,1,LSA,0.3845320951000864
+resume_words,400,1,Hybrid,0.4243617118965261
+resume_words,400,2,Random,0.07083755985591887
+resume_words,400,2,Keyword,0.28670253992209255
+resume_words,400,2,Jaccard (tags),0.3167681036688539
+resume_words,400,2,TF-IDF,0.3248290786413085
+resume_words,400,2,LSA,0.38183862803466
+resume_words,400,2,Hybrid,0.42869401826086073
+resume_words,400,3,Random,0.0686960081824099
+resume_words,400,3,Keyword,0.31537934371941057
+resume_words,400,3,Jaccard (tags),0.34527939583968503
+resume_words,400,3,TF-IDF,0.36529869037249924
+resume_words,400,3,LSA,0.41559273461425006
+resume_words,400,3,Hybrid,0.4697426565850617
+resume_words,400,4,Random,0.06716088963768023
+resume_words,400,4,Keyword,0.30667091210016745
+resume_words,400,4,Jaccard (tags),0.3217622061367937
+resume_words,400,4,TF-IDF,0.37028965851768914
+resume_words,400,4,LSA,0.3972310153304464
+resume_words,400,4,Hybrid,0.4421639424436102
+resume_words,all,0,Random,0.06740554097256238
+resume_words,all,0,Keyword,0.2802549704565759
+resume_words,all,0,Jaccard (tags),0.319625076816456
+resume_words,all,0,TF-IDF,0.36951206712061546
+resume_words,all,0,LSA,0.4181966406217136
+resume_words,all,0,Hybrid,0.44391178143152105
+resume_words,all,1,Random,0.06884521592159738
+resume_words,all,1,Keyword,0.27049383548047773
+resume_words,all,1,Jaccard (tags),0.30921426930905627
+resume_words,all,1,TF-IDF,0.36888438448523075
+resume_words,all,1,LSA,0.4130043660419943
+resume_words,all,1,Hybrid,0.43766293405967366
+resume_words,all,2,Random,0.07083755985591887
+resume_words,all,2,Keyword,0.2773014618871373
+resume_words,all,2,Jaccard (tags),0.3167681036688539
+resume_words,all,2,TF-IDF,0.35233574943555157
+resume_words,all,2,LSA,0.416336540674025
+resume_words,all,2,Hybrid,0.44857430258077174
+resume_words,all,3,Random,0.0686960081824099
+resume_words,all,3,Keyword,0.3013989333848998
+resume_words,all,3,Jaccard (tags),0.34527939583968503
+resume_words,all,3,TF-IDF,0.3784242970900998
+resume_words,all,3,LSA,0.42624068483400324
+resume_words,all,3,Hybrid,0.46997257470424303
+resume_words,all,4,Random,0.06716088963768023
+resume_words,all,4,Keyword,0.2843804935325157
+resume_words,all,4,Jaccard (tags),0.3217622061367937
+resume_words,all,4,TF-IDF,0.40013283951381395
+resume_words,all,4,LSA,0.4265670067916195
+resume_words,all,4,Hybrid,0.46040561999391244
+tag_drop_prob,0.0,0,Random,0.06740554097256238
+tag_drop_prob,0.0,0,Keyword,0.2802549704565759
+tag_drop_prob,0.0,0,Jaccard (tags),0.319625076816456
+tag_drop_prob,0.0,0,TF-IDF,0.36951206712061546
+tag_drop_prob,0.0,0,LSA,0.4181966406217136
+tag_drop_prob,0.0,0,Hybrid,0.44391178143152105
+tag_drop_prob,0.0,1,Random,0.06884521592159738
+tag_drop_prob,0.0,1,Keyword,0.27049383548047773
+tag_drop_prob,0.0,1,Jaccard (tags),0.30921426930905627
+tag_drop_prob,0.0,1,TF-IDF,0.36888438448523075
+tag_drop_prob,0.0,1,LSA,0.4130043660419943
+tag_drop_prob,0.0,1,Hybrid,0.43766293405967366
+tag_drop_prob,0.0,2,Random,0.07083755985591887
+tag_drop_prob,0.0,2,Keyword,0.2773014618871373
+tag_drop_prob,0.0,2,Jaccard (tags),0.3167681036688539
+tag_drop_prob,0.0,2,TF-IDF,0.35233574943555157
+tag_drop_prob,0.0,2,LSA,0.416336540674025
+tag_drop_prob,0.0,2,Hybrid,0.44857430258077174
+tag_drop_prob,0.0,3,Random,0.0686960081824099
+tag_drop_prob,0.0,3,Keyword,0.3013989333848998
+tag_drop_prob,0.0,3,Jaccard (tags),0.34527939583968503
+tag_drop_prob,0.0,3,TF-IDF,0.3784242970900998
+tag_drop_prob,0.0,3,LSA,0.42624068483400324
+tag_drop_prob,0.0,3,Hybrid,0.46997257470424303
+tag_drop_prob,0.0,4,Random,0.06716088963768023
+tag_drop_prob,0.0,4,Keyword,0.2843804935325157
+tag_drop_prob,0.0,4,Jaccard (tags),0.3217622061367937
+tag_drop_prob,0.0,4,TF-IDF,0.40013283951381395
+tag_drop_prob,0.0,4,LSA,0.4265670067916195
+tag_drop_prob,0.0,4,Hybrid,0.46040561999391244
+tag_drop_prob,0.2,0,Random,0.06740554097256238
+tag_drop_prob,0.2,0,Keyword,0.2802549704565759
+tag_drop_prob,0.2,0,Jaccard (tags),0.3078342637761429
+tag_drop_prob,0.2,0,TF-IDF,0.36951206712061546
+tag_drop_prob,0.2,0,LSA,0.4181966406217136
+tag_drop_prob,0.2,0,Hybrid,0.4380720611651132
+tag_drop_prob,0.2,1,Random,0.06884521592159738
+tag_drop_prob,0.2,1,Keyword,0.27049383548047773
+tag_drop_prob,0.2,1,Jaccard (tags),0.3019095056472091
+tag_drop_prob,0.2,1,TF-IDF,0.36888438448523075
+tag_drop_prob,0.2,1,LSA,0.4130043660419943
+tag_drop_prob,0.2,1,Hybrid,0.43419293099510464
+tag_drop_prob,0.2,2,Random,0.07083755985591887
+tag_drop_prob,0.2,2,Keyword,0.2773014618871373
+tag_drop_prob,0.2,2,Jaccard (tags),0.3096557214352352
+tag_drop_prob,0.2,2,TF-IDF,0.35233574943555157
+tag_drop_prob,0.2,2,LSA,0.416336540674025
+tag_drop_prob,0.2,2,Hybrid,0.4361051798610481
+tag_drop_prob,0.2,3,Random,0.0686960081824099
+tag_drop_prob,0.2,3,Keyword,0.3013989333848998
+tag_drop_prob,0.2,3,Jaccard (tags),0.3364745482156259
+tag_drop_prob,0.2,3,TF-IDF,0.3784242970900998
+tag_drop_prob,0.2,3,LSA,0.42624068483400324
+tag_drop_prob,0.2,3,Hybrid,0.4620483712976383
+tag_drop_prob,0.2,4,Random,0.06716088963768023
+tag_drop_prob,0.2,4,Keyword,0.2843804935325157
+tag_drop_prob,0.2,4,Jaccard (tags),0.3086996039290618
+tag_drop_prob,0.2,4,TF-IDF,0.40013283951381395
+tag_drop_prob,0.2,4,LSA,0.4265670067916195
+tag_drop_prob,0.2,4,Hybrid,0.4590678256339931
+tag_drop_prob,0.4,0,Random,0.06740554097256238
+tag_drop_prob,0.4,0,Keyword,0.2802549704565759
+tag_drop_prob,0.4,0,Jaccard (tags),0.30082796913116944
+tag_drop_prob,0.4,0,TF-IDF,0.36951206712061546
+tag_drop_prob,0.4,0,LSA,0.4181966406217136
+tag_drop_prob,0.4,0,Hybrid,0.43199360985739693
+tag_drop_prob,0.4,1,Random,0.06884521592159738
+tag_drop_prob,0.4,1,Keyword,0.27049383548047773
+tag_drop_prob,0.4,1,Jaccard (tags),0.2878058499063398
+tag_drop_prob,0.4,1,TF-IDF,0.36888438448523075
+tag_drop_prob,0.4,1,LSA,0.4130043660419943
+tag_drop_prob,0.4,1,Hybrid,0.4150068508820663
+tag_drop_prob,0.4,2,Random,0.07083755985591887
+tag_drop_prob,0.4,2,Keyword,0.2773014618871373
+tag_drop_prob,0.4,2,Jaccard (tags),0.2869242380000282
+tag_drop_prob,0.4,2,TF-IDF,0.35233574943555157
+tag_drop_prob,0.4,2,LSA,0.416336540674025
+tag_drop_prob,0.4,2,Hybrid,0.41502370688693957
+tag_drop_prob,0.4,3,Random,0.0686960081824099
+tag_drop_prob,0.4,3,Keyword,0.3013989333848998
+tag_drop_prob,0.4,3,Jaccard (tags),0.29732104227208295
+tag_drop_prob,0.4,3,TF-IDF,0.3784242970900998
+tag_drop_prob,0.4,3,LSA,0.42624068483400324
+tag_drop_prob,0.4,3,Hybrid,0.4328813910736162
+tag_drop_prob,0.4,4,Random,0.06716088963768023
+tag_drop_prob,0.4,4,Keyword,0.2843804935325157
+tag_drop_prob,0.4,4,Jaccard (tags),0.29696298956171546
+tag_drop_prob,0.4,4,TF-IDF,0.40013283951381395
+tag_drop_prob,0.4,4,LSA,0.4265670067916195
+tag_drop_prob,0.4,4,Hybrid,0.4528789387018359
+tag_drop_prob,0.6,0,Random,0.06740554097256238
+tag_drop_prob,0.6,0,Keyword,0.2802549704565759
+tag_drop_prob,0.6,0,Jaccard (tags),0.26495381005987206
+tag_drop_prob,0.6,0,TF-IDF,0.36951206712061546
+tag_drop_prob,0.6,0,LSA,0.4181966406217136
+tag_drop_prob,0.6,0,Hybrid,0.40753502915037515
+tag_drop_prob,0.6,1,Random,0.06884521592159738
+tag_drop_prob,0.6,1,Keyword,0.27049383548047773
+tag_drop_prob,0.6,1,Jaccard (tags),0.2712661550421931
+tag_drop_prob,0.6,1,TF-IDF,0.36888438448523075
+tag_drop_prob,0.6,1,LSA,0.4130043660419943
+tag_drop_prob,0.6,1,Hybrid,0.3987304864011496
+tag_drop_prob,0.6,2,Random,0.07083755985591887
+tag_drop_prob,0.6,2,Keyword,0.2773014618871373
+tag_drop_prob,0.6,2,Jaccard (tags),0.2550585467496067
+tag_drop_prob,0.6,2,TF-IDF,0.35233574943555157
+tag_drop_prob,0.6,2,LSA,0.416336540674025
+tag_drop_prob,0.6,2,Hybrid,0.4042802434564017
+tag_drop_prob,0.6,3,Random,0.0686960081824099
+tag_drop_prob,0.6,3,Keyword,0.3013989333848998
+tag_drop_prob,0.6,3,Jaccard (tags),0.2705873882765284
+tag_drop_prob,0.6,3,TF-IDF,0.3784242970900998
+tag_drop_prob,0.6,3,LSA,0.42624068483400324
+tag_drop_prob,0.6,3,Hybrid,0.41853431571682376
+tag_drop_prob,0.6,4,Random,0.06716088963768023
+tag_drop_prob,0.6,4,Keyword,0.2843804935325157
+tag_drop_prob,0.6,4,Jaccard (tags),0.2558179196943785
+tag_drop_prob,0.6,4,TF-IDF,0.40013283951381395
+tag_drop_prob,0.6,4,LSA,0.4265670067916195
+tag_drop_prob,0.6,4,Hybrid,0.42014768044660306
+tag_drop_prob,0.8,0,Random,0.06740554097256238
+tag_drop_prob,0.8,0,Keyword,0.2802549704565759
+tag_drop_prob,0.8,0,Jaccard (tags),0.2239004799100238
+tag_drop_prob,0.8,0,TF-IDF,0.36951206712061546
+tag_drop_prob,0.8,0,LSA,0.4181966406217136
+tag_drop_prob,0.8,0,Hybrid,0.3765472719784968
+tag_drop_prob,0.8,1,Random,0.06884521592159738
+tag_drop_prob,0.8,1,Keyword,0.27049383548047773
+tag_drop_prob,0.8,1,Jaccard (tags),0.24273282353432343
+tag_drop_prob,0.8,1,TF-IDF,0.36888438448523075
+tag_drop_prob,0.8,1,LSA,0.4130043660419943
+tag_drop_prob,0.8,1,Hybrid,0.3748940119813086
+tag_drop_prob,0.8,2,Random,0.07083755985591887
+tag_drop_prob,0.8,2,Keyword,0.2773014618871373
+tag_drop_prob,0.8,2,Jaccard (tags),0.20602121599078996
+tag_drop_prob,0.8,2,TF-IDF,0.35233574943555157
+tag_drop_prob,0.8,2,LSA,0.416336540674025
+tag_drop_prob,0.8,2,Hybrid,0.35970983357202885
+tag_drop_prob,0.8,3,Random,0.0686960081824099
+tag_drop_prob,0.8,3,Keyword,0.3013989333848998
+tag_drop_prob,0.8,3,Jaccard (tags),0.22641444672743774
+tag_drop_prob,0.8,3,TF-IDF,0.3784242970900998
+tag_drop_prob,0.8,3,LSA,0.42624068483400324
+tag_drop_prob,0.8,3,Hybrid,0.3742146055366141
+tag_drop_prob,0.8,4,Random,0.06716088963768023
+tag_drop_prob,0.8,4,Keyword,0.2843804935325157
+tag_drop_prob,0.8,4,Jaccard (tags),0.22238204864122949
+tag_drop_prob,0.8,4,TF-IDF,0.40013283951381395
+tag_drop_prob,0.8,4,LSA,0.4265670067916195
+tag_drop_prob,0.8,4,Hybrid,0.3897401731760627

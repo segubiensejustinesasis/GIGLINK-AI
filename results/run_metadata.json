@@ -1,0 +1,83 @@
+{
+  "config": {
+    "n_gigs": 400,
+    "n_seekers": null,
+    "min_tags": 1,
+    "seed": 0
+  },
+  "n_main_samples": 20,
+  "n_side_samples": 5,
+  "lsa_k": 40,
+  "svd_n_iter": 7,
+  "w_text_grid": [
+    0.0,
+    0.1,
+    0.2,
+    0.3,
+    0.4,
+    0.5,
+    0.6,
+    0.7,
+    0.8,
+    0.9,
+    1.0
+  ],
+  "n_scarce": 300,
+  "selected_params_mode": {
+    "text": "LSA",
+    "w_text": 0.2
+  },
+  "selected_params_counts": [
+    {
+      "text": "LSA",
+      "w_text": 0.2,
+      "count": 17
+    },
+    {
+      "text": "LSA",
+      "w_text": 0.3,
+      "count": 3
+    }
+  ],
+  "svd": {
+    "matrix_shape": [
+      2883,
+      41587
+    ],
+    "nnz": 828055,
+    "k": 40,
+    "exact_low_rank_fro_err": 0.9059732909738343,
+    "sigma_1": 14.229029518610568,
+    "sigma_k": 1.9048614246715645
+  },
+  "runtime_loglog_slopes_n>=400": {
+    "TF-IDF scoring": 1.0816723513279445,
+    "Jaccard scoring": 2.259579068707072,
+    "Hungarian assignment": 2.5678367847356594,
+    "Greedy assignment": 2.123308104093152
+  },
+  "data": {
+    "gigs_raw": 52977,
+    "gigs_after_mapping": 42029,
+    "upwork_categories_mapped": 94,
+    "seekers": 2483,
+    "resume_categories": 24,
+    "skill_vocabulary": 2814,
+    "gig_tags_median": 5.0,
+    "seeker_tags_median": 24.0,
+    "resume_words_median": 757.0,
+    "sample0_relevance_distribution": [
+      0.8837092227144583,
+      0.0725724929520741,
+      0.043718284333467576
+    ],
+    "sample0_mean_rel2_per_gig": 108.5525,
+    "sample0_vocabulary_size": 41587
+  },
+  "total_runtime_seconds": 1009.4129926930001,
+  "numpy": "2.5.3",
+  "pandas": "3.0.5",
+  "scipy": "1.18.1",
+  "sklearn": "1.9.1",
+  "matplotlib": "3.11.2"
+}
