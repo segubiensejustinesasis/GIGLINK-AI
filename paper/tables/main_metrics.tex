@@ -1,0 +1,18 @@
+\begin{table}[htbp]
+\centering
+\small
+\caption{Test-set ranking quality on real Upwork job posts and real resumes (mean $\pm$ half-width of the 95\% confidence interval over 20 random samples; 200 test gigs $\times$ 2,483 resumes per sample). Best value per column in bold.}
+\label{tab:main}
+\begin{tabular}{lcccc}
+\toprule
+Method & P@5 & R@100 & nDCG@10 & MRR \\
+\midrule
+Random & 0.044 $\pm$ 0.003 & 0.041 $\pm$ 0.000 & 0.068 $\pm$ 0.003 & 0.142 $\pm$ 0.008 \\
+Keyword & 0.236 $\pm$ 0.008 & 0.129 $\pm$ 0.002 & 0.278 $\pm$ 0.007 & 0.438 $\pm$ 0.010 \\
+Jaccard (tags) & 0.277 $\pm$ 0.012 & 0.124 $\pm$ 0.003 & 0.324 $\pm$ 0.010 & 0.462 $\pm$ 0.014 \\
+TF-IDF & 0.314 $\pm$ 0.013 & 0.176 $\pm$ 0.004 & 0.362 $\pm$ 0.010 & 0.484 $\pm$ 0.014 \\
+LSA & 0.348 $\pm$ 0.011 & 0.236 $\pm$ 0.006 & 0.406 $\pm$ 0.009 & 0.541 $\pm$ 0.012 \\
+Hybrid & \textbf{0.389} $\pm$ 0.014 & \textbf{0.237} $\pm$ 0.006 & \textbf{0.438} $\pm$ 0.011 & \textbf{0.566} $\pm$ 0.014 \\
+\bottomrule
+\end{tabular}
+\end{table}

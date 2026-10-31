@@ -1,0 +1,20 @@
+\begin{table}[htbp]
+\centering
+\small
+\caption{Wall-clock time in seconds (median of 3 runs) for $n$ gigs and $n$ seekers. The last row is the slope of a least-squares line fitted to $\log t$ versus $\log n$ for $n \ge 400$ (empirical complexity exponent).}
+\label{tab:runtime}
+\begin{tabular}{rrrrr}
+\toprule
+$n$ & TF-IDF scoring & Jaccard scoring & Hungarian & Greedy \\
+\midrule
+100 & 0.1244 & 0.0034 & 0.0004 & 0.0104 \\
+200 & 0.2753 & 0.0070 & 0.0018 & 0.0418 \\
+400 & 0.4859 & 0.0161 & 0.0084 & 0.1873 \\
+800 & 0.9879 & 0.0584 & 0.0408 & 0.7631 \\
+1600 & 2.0359 & 0.3454 & 0.2600 & 3.4574 \\
+2400 & 3.4450 & 0.8729 & 0.8297 & 8.3417 \\
+\midrule
+slope & 1.08 & 2.26 & 2.57 & 2.12 \\
+\bottomrule
+\end{tabular}
+\end{table}

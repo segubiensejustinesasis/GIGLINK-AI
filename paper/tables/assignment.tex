@@ -1,0 +1,20 @@
+\begin{table}[htbp]
+\centering
+\small
+\caption{Simultaneous assignment of all 400 sampled gigs (mean over 20 samples). \emph{True relevance} sums the category-based relevance of the chosen pairs; \emph{good match rate} is the share of the gigs that receive a resume from the primary matching category ($\mathrm{rel}=2$).}
+\label{tab:assign}
+\resizebox{\linewidth}{!}{%
+\begin{tabular}{llrrrrr}
+\toprule
+Market & Policy & Pred.\ utility & True relevance & Good match rate & Gigs filled & Double-booked \\
+\midrule
+surplus (2483 seekers) & Optimal (Hungarian) & 60.13 & 325.80 & 0.304 & 400.0 & 0.0 \\
+ & Greedy & 58.58 & 322.85 & 0.303 & 400.0 & 0.0 \\
+ & Independent top-1 & 68.85 & 414.45 & 0.437 & 400.0 & 245.7 \\
+\midrule
+scarce (300 seekers) & Optimal (Hungarian) & 33.60 & 129.65 & 0.115 & 300.0 & 0.0 \\
+ & Greedy & 31.96 & 122.15 & 0.107 & 300.0 & 0.0 \\
+ & Independent top-1 & 55.25 & 364.40 & 0.367 & 400.0 & 309.6 \\
+\bottomrule
+\end{tabular}}
+\end{table}

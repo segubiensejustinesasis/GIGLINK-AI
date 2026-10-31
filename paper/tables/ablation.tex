@@ -1,0 +1,17 @@
+\begin{table}[htbp]
+\centering
+\small
+\caption{Ablation of the hybrid model (test gigs, 20 samples, mean $\pm$ 95\% CI). $\alpha$ is the weight on text similarity; $1-\alpha$ goes to tag overlap.}
+\label{tab:ablation}
+\begin{tabular}{lcccc}
+\toprule
+Method & P@5 & R@100 & nDCG@10 & MRR \\
+\midrule
+Hybrid (tuned) & \textbf{0.389} $\pm$ 0.014 & 0.237 $\pm$ 0.006 & \textbf{0.438} $\pm$ 0.011 & \textbf{0.566} $\pm$ 0.014 \\
+Hybrid, other text model & 0.363 $\pm$ 0.013 & 0.193 $\pm$ 0.004 & 0.412 $\pm$ 0.010 & 0.537 $\pm$ 0.016 \\
+text only ($\alpha = 1$) & 0.348 $\pm$ 0.011 & 0.236 $\pm$ 0.006 & 0.406 $\pm$ 0.009 & 0.541 $\pm$ 0.012 \\
+tags only ($\alpha = 0$) & 0.277 $\pm$ 0.012 & 0.124 $\pm$ 0.003 & 0.324 $\pm$ 0.010 & 0.462 $\pm$ 0.014 \\
+equal weights ($\alpha = 0.5$) & 0.363 $\pm$ 0.012 & \textbf{0.240} $\pm$ 0.006 & 0.420 $\pm$ 0.010 & 0.551 $\pm$ 0.014 \\
+\bottomrule
+\end{tabular}
+\end{table}
