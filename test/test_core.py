@@ -5,9 +5,9 @@ import pandas as pd
 from scipy.optimize import linear_sum_assignment
 
 from giglink_ai.assignment import greedy_assignment, optimal_assignment
-from giglink_ai.data_gen import DataConfig, feasibility_matrix, generate, ground_truth_relevance
 from giglink_ai.metrics import mrr, ndcg_at_k, precision_at_k
 from giglink_ai.models import apply_feasibility, jaccard_scores, tfidf_scores
+from giglink_ai.real_data import _category, _job_text, _skills, extract_tags, relevance_matrix
 
 
 def test_metrics_perfect_and_worst_ranking():
@@ -38,17 +38,24 @@ def test_tfidf_cosine_bounds():
     assert S[0, 0] > S[0, 1] and np.all((S >= 0) & (S <= 1 + 1e-9))
 
 
-def test_generator_is_reproducible():
-    a, _ = generate(DataConfig(seed=7, n_gigs=5, n_seekers=5))
-    b, _ = generate(DataConfig(seed=7, n_gigs=5, n_seekers=5))
-    pd.testing.assert_frame_equal(a, b)
+def test_upwork_description_parsing():
+    desc = ("Need a logo.Budget: $50Posted On: May 1, 2024 09:00 UTCCategory: Logo DesignSkills:Logo Design,     "
+            "Adobe IllustratorSkills:        Logo Design,   Adobe IllustratorCountry: Philippinesclick to apply")
+    assert _job_text(desc) == "Need a logo."
+    assert _category(desc) == "Logo Design"
+    assert _skills(desc) == "logo design;adobe illustrator"
 
 
-def test_relevance_zero_when_infeasible():
-    s, g = generate(DataConfig(seed=1, n_gigs=30, n_seekers=40))
-    F = feasibility_matrix(s, g)
-    R = ground_truth_relevance(s, g, F)
-    assert np.all(R[~F] == 0)
+def test_resume_tags_are_whole_phrases():
+    tags = extract_tags(pd.Series(["Skilled in Adobe Illustrator and SEO.", "Seoul office"]), {"adobe illustrator", "seo", "excel"})
+    assert list(tags) == ["adobe illustrator;seo", ""]
+
+
+def test_category_relevance_grades():
+    gigs = pd.DataFrame({"category": ["Logo Design"]})
+    seekers = pd.DataFrame({"category": ["DESIGNER", "ARTS", "CHEF"]})
+    cmap = {"Logo Design": ("DESIGNER", {"ARTS", "DIGITAL-MEDIA"})}
+    assert relevance_matrix(gigs, seekers, cmap).tolist() == [[2, 1, 0]]
 
 
 def test_optimal_beats_or_ties_greedy_and_matches_bruteforce():
